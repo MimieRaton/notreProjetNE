@@ -1,8 +1,8 @@
 Planning de travail
-Lundi
-Mardi
-Mercredi
-Jeudi
-Vendredi
-Samedi
-Dimanche
+Lundi = warcraft
+Mardi = LOL
+Mercredi = playmobil
+Jeudi = overwatch
+Vendredi = Halo
+Samedi = COD
+Dimanche = skyrim
